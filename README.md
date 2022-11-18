@@ -7,6 +7,8 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 
 
+________________________![image](https://www.serracaiada.rn.gov.br/images/galeriacovid.gif)
+
 
 ## 🚀 Abrindo o Site
 
@@ -23,9 +25,9 @@ windows, Macs e Linux:
 file:///C:/Users/udiel/OneDrive/Área%20de%20Trabalho/Barbearia/Barbearia-1/index.html
 ```
 
-## 🤝 Desenvolvedor
+<h1 style: align="center">🤝 Desenvolvedor</h1>
 
-<table>
+<table style: align="center">
     <td align="center">
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/113556350?v=4" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
