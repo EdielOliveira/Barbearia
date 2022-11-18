@@ -7,8 +7,8 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 
 
-________________________![image](https://www.serracaiada.rn.gov.br/images/galeriacovid.gif)
-
+![image](http://www.unow.com.br/emDesenvolvimento.gif)
+> Em desenvolvimento
 
 ## 🚀 Abrindo o Site
 
