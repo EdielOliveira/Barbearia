@@ -22,7 +22,7 @@ windows, Macs e Linux:
 <Vá na URL e cole o link :>
 ```
 ```
-file:///C:/Users/udiel/OneDrive/Área%20de%20Trabalho/Barbearia/Barbearia-1/index.html
+http://127.0.0.1:5500/Barbearia-1/index.html
 ```
 
 <h1 style: align="center">🤝 Desenvolvedor</h1>
