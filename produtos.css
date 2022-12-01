@@ -1,4 +1,6 @@
-
+body{
+    background: #000000;
+}
 header
 {
     background: #BBBBBB;
@@ -13,7 +15,7 @@ header
 nav
 {
     position: absolute;
-    top: 110px;
+    top: 80px;
     right: 0px;
 }
 nav li /*Home,Contato,Produtos*/
@@ -29,7 +31,36 @@ nav a
     font-size: 22px;
     text-decoration: none;
 }
-Produtos
+/*CARDS CABELO,BARBA,CABELO+BARBA*/
+.produtos li
 {
- display: inline-block;
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    background: #CCCCCC;
+    border-radius: 20px;
+    margin: 0 1.5% 0;
+    padding: 30px 20px;
+    box-sizing: border-box ;
+}
+.produtos
+{
+    width: 940px;
+    margin: 0 auto;
+}
+.produtos h2
+{
+    font-size: 30px;
+    font-weight: bold;
+}
+.produto-preço
+{
+    font-size: 22px;
+    font-weight:bold;
+    margin-top: 10px;
+}
+.produto-descrição
+{
+    font-size: 18px;
 }
